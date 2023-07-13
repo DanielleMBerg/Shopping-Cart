@@ -1,0 +1,52 @@
+.card {
+    margin: 10px;
+    width: 25rem;
+}
+
+.card-img-top {
+    height: 15rem;
+}
+
+.cart {
+    border: black solid 3px;
+    border-radius: 10px;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 5px;
+    text-align: center;
+    width: auto;
+}
+
+footer {
+    background-color: lavender;
+    height: 3rem;
+    padding-right: 10px;
+    text-align: right;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 10px;;
+}
+
+.products {
+   display: flex;
+   flex-direction: row;
+   margin-left: 5rem;
+   margin-right: 5rem;
+   text-align: center;
+}
+
+#root {
+    background-color: lavender;
+}
+
+ul, li {
+    display:inline;
+    font-size: large;
+    padding: 10px;
+}
